@@ -33,7 +33,7 @@ This project demonstrates how to use the AWS CLI to manage AWS Identity and Acce
 
 ## How to use
 
-1. Configure AWS CLI with an IAM user that has permission to manage IAM: aws configure
+1. Configure AWS CLI with an IAM user that has permission to manage IAM: `aws configure`
 
 2. Create an IAM user and group using the commands in `scripts/iam-setup-commands.md`.
 
